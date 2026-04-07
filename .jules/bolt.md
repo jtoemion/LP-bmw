@@ -1,5 +1,5 @@
 # Bolt's Journal - Critical Learnings
 
-## 2026-04-07 - ESLint config incompatibility
-**Learning:** This repo uses `eslint.config.js` (flat config / ESLint v9+) but the `lint` script in package.json uses `--ext` flag which is only valid for legacy `.eslintrc` config. `npm run lint` fails due to this mismatch - it's a pre-existing issue, not caused by our changes.
-**Action:** Use `npx vite build` or `npx tsc --noEmit` for verification instead of relying on the broken lint script.
+## 2026-04-07 - Suspense boundary placement matters for Layout persistence
+**Learning:** Wrapping `<Routes>` with `<Suspense>` causes the entire Layout (Navbar/Footer) to unmount and be replaced by the fallback during lazy-load transitions. The Suspense boundary must wrap `<Outlet />` inside Layout instead.
+**Action:** Always place Suspense boundaries as close to the lazy component as possible — inside Layout wrapping Outlet, not outside Routes.

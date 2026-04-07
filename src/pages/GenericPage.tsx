@@ -1,6 +1,3 @@
-import React from 'react';
-import { useTranslation } from 'react-i18next';
-
 export default function GenericPage({ title }: { title: string }) {
   return (
     <div className="min-h-[50vh] flex flex-col items-center justify-center p-8 bg-carbon text-center">

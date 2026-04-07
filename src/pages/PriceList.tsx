@@ -1,6 +1,3 @@
-import React from 'react';
-import { useTranslation } from 'react-i18next';
-
 const priceData = [
   { series: "2 Series", model: "BMW 218i Gran Coupe M Sport", price: "Rp 938.000.000", isElectric: false },
   { series: "3 Series", model: "BMW 320i M Sport LCI", price: "Rp 1.139.000.000", isElectric: false },
@@ -18,8 +15,6 @@ const priceData = [
 ];
 
 export default function PriceList() {
-  const { t } = useTranslation();
-
   return (
     <div className="bg-night min-h-screen pt-12 pb-24 px-6 md:px-12">
       <div className="max-w-5xl mx-auto">

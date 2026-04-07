@@ -2,7 +2,7 @@ import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 
 export default function ContactSection() {
-  const { t, i18n } = useTranslation();
+  const { i18n } = useTranslation();
 
   const operatingHoursLabel = i18n.language === 'id' ? 'JAM OPERASIONAL' : 'OPERATING HOURS';
   const weekendLabel = i18n.language === 'id' ? 'AKHIR PEKAN' : 'WEEKEND';
