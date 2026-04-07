@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(github.com)",
+      "Bash(npx *)",
+      "Read(C:\\Users\\jtoem\\.gemini\\antigravity/**)",
+      "Bash(taskkill *)"
+    ]
+  },
+  "$version": 3
+}

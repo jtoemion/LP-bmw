@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-night text-mist font-sans;
+  }
+  
+  /* The No-Line Rule: boundaries defined through background color shifts/ghosts */
+  ::selection {
+    @apply bg-bmw-blue text-white;
+  }
+}
+
+@layer utilities {
+  .material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    vertical-align: middle;
+  }
+  .ultra-light { font-weight: 200; }
+  .track-tight-brand { letter-spacing: -0.03em; }
+  .track-wide-label { letter-spacing: 0.1em; }
+  .cinematic-overlay { background: linear-gradient(to right, rgba(10,10,10,0.8) 0%, rgba(10,10,10,0.4) 50%, rgba(10,10,10,0.2) 100%); }
+  .glass-nav { background-color: rgba(30, 30, 30, 0.9); backdrop-filter: blur(20px); }
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+  .ghost-border {
+    border: 1px solid rgba(60, 60, 60, 0.5); /* 20% opacity of chrome was too dim visually, adjusting to 50% for 1px lines or using ghost */
+    /* Wait, the spec says use --chrome at 20% opacity. Chrome is #3C3C3C. 20% of 3C3C3C is: rgba(60,60,60,0.2) */
+    border: 1px solid rgba(60, 60, 60, 0.4); 
+  }
+  .ghost-border-b {
+    border-bottom: 1px solid rgba(60, 60, 60, 0.4);
+  }
+  .ghost-border-t {
+    border-top: 1px solid rgba(60, 60, 60, 0.4);
+  }
+  .ghost-hover:hover {
+    @apply bg-[rgba(255,255,255,0.02)];
+  }
+  .glass-panel {
+    @apply bg-steel/60 backdrop-blur-[20px] ghost-border;
+  }
+  .price-row-alt:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.04);
+  }
+  .cta-gradient {
+    /* Gradient replacing border-radii for cinematic buttons */
+    background: linear-gradient(45deg, #1C69D4, #004494);
+  }
+  .btn-primary {
+    @apply cta-gradient text-white rounded-precise transition-all duration-[400ms] ease-in-out;
+  }
+  .btn-primary:hover {
+    box-shadow: 0 0 10px rgba(43, 143, 255, 0.8);
+  }
+  .glow-hover:hover {
+    box-shadow: 0 0 10px rgba(43, 143, 255, 0.6);
+  }
+  .ambient-shadow {
+    box-shadow: 0 0 40px 0 rgba(28, 105, 212, 0.1);
+  }
+}

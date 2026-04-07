@@ -1,0 +1,211 @@
+{
+  "nav": {
+    "spec": "Spesifikasi",
+    "priceList": "Daftar Harga",
+    "promo": "Promo",
+    "testDrive": "Test Drive",
+    "tradeIn": "Tukar Tambah",
+    "kredit": "Simulasi Kredit",
+    "insurance": "BMW Asuransi",
+    "coating": "Coating",
+    "afterSales": "Purna Jual",
+    "contact": "Hubungi Dealer"
+  },
+  "hero": {
+    "eyebrow": "BMW OFFICIAL STORE — INDONESIA",
+    "title1": "The Ultimate",
+    "title2": "Driving Machine.",
+    "body": "Dealer resmi BMW sejak 1984. Temukan pengalaman puncak dari karya rekayasa otomotif."
+  },
+  "models": {
+    "header": "Temukan Seluruh Seri BMW Terbaru",
+    "showMore": "Selengkapnya",
+    "offers": "Promo",
+    "badgeNew": "Baru!"
+  },
+  "contact": {
+    "eyebrow": "HUBUNGI KAMI",
+    "title": "Konsultasi dengan BMW Business Consultant Kami",
+    "call": "Telepon",
+    "chat": "WhatsApp",
+    "testDrive": "Test Drive"
+  },
+  "trust": {
+    "title": "Kenapa BMWStore.id",
+    "c1": "Dealer BMW Pertama di Indonesia dengan pengalaman lebih dari 40 tahun. Sejak 1984.",
+    "c2": "Dapatkan Penawaran Eksklusif di BMW Official Store. Hubungi kami.",
+    "c3": "Jaminan Harga Terbaik 100% dengan staf profesional yang berorientasi pelanggan — Penghargaan Best Customer Relationship BMW Indonesia."
+  },
+  "finance": {
+    "eyebrow": "BMW FINANCIAL SERVICES",
+    "title": "Beli BMW Impian Anda.",
+    "body": "BMW Financial Services adalah Mitra Resmi BMW. Meliputi pembiayaan pinjaman dan penyewaan mobil BMW untuk pelanggan pribadi dan korporat, ditambah produk asuransi pilihan.",
+    "note": "*Syarat & Ketentuan berlaku. Hubungi kami untuk informasi lebih lanjut.",
+    "cta": "Hitung Sekarang"
+  },
+  "simulasi": {
+    "title": "Simulasi Kredit BMW",
+    "subtitle": "Rencanakan kepemilikan BMW impian Anda dengan kalkulator simulasi kredit kami. Dapatkan estimasi Down Payment (DP) dan cicilan per bulan.",
+    "adjustFinancing": "Sesuaikan Pembiayaan",
+    "carPrice": "Harga Mobil (OTR)",
+    "dp": "Down Payment (DP)",
+    "dpMin": "Min 20%",
+    "dpMax": "Max 70%",
+    "tenure": "Tenor (Bulan)",
+    "estimation": "Estimasi Pembiayaan",
+    "totalDP": "Total Down Payment (DP)",
+    "loanPrincipal": "Pokok Hutang",
+    "monthlyInstallment": "Cicilan per Bulan",
+    "disclaimer": "*Perhitungan ini hanya simulasi. Angka aktual dapat bervariasi sesuai dengan suku bunga berjalan dan asuransi pihak leasing BMW Financial Services.",
+    "apply": "Ajukan Pembiayaan"
+  },
+  "financial": {
+    "eyebrow": "BMW FINANCIAL SERVICES",
+    "title": "Drive Today. Pay on Your Terms.",
+    "body": "Solusi pembiayaan kami yang disesuaikan dirancang untuk memenuhi kebutuhan finansial spesifik Anda. Dari leasing fleksibel hingga rencana kepemilikan yang disesuaikan.",
+    "fastApproval": "Persetujuan Cepat dalam 24 Jam",
+    "competitiveRates": "Suku Bunga Khusus yang Kompetitif",
+    "simulation": "Simulasi Kredit",
+    "selectModel": "PILIH MODEL",
+    "dpLabel": "DOWN PAYMENT (DP)",
+    "tenureLabel": "TENOR (BULAN)",
+    "estimation": "ESTIMASI CICILAN / BULAN",
+    "contactConsultant": "HUBUNGI CONSULTANT"
+  },
+  "search": {
+    "title": "Pencarian Teratas"
+  },
+  "promo": {
+    "title": "Promo BMW Terkini",
+    "subtitle": "Penawaran eksklusif tersedia di BMW Store Indonesia. Waktu terbatas.",
+    "period": "MARET - APRIL 2026",
+    "limitedTime": "WAKTU TERBATAS",
+    "getOffer": "DAPATKAN PENAWARAN",
+    "card1": {
+      "title": "Cicilan Ringan Mulai 0% Interest",
+      "validity": "Berlaku: 1 Maret - 30 April 2026",
+      "description": "Dapatkan penawaran cicilan terbaik dengan bunga 0% untuk tenor hingga 24 bulan. Berlaku untuk unit ready stock."
+    },
+    "card2": {
+      "title": "Free 3-Year Service Package",
+      "validity": "Berlaku: 1 Maret - 30 April 2026",
+      "description": "Nikmati ketenangan berkendara dengan paket servis komprehensif gratis selama 3 tahun. Mencakup suku cadang dan jasa servis rutin."
+    },
+    "card3": {
+      "title": "Trade-In Special Rate",
+      "validity": "Berlaku: Sepanjang 2026",
+      "description": "Tukarkan mobil lama Anda dengan BMW impian. Penilaian unit transparan dengan penawaran harga terbaik di pasar otomotif."
+    },
+    "card4": {
+      "title": "BMW Insurance Bundle",
+      "validity": "Berlaku: 1 Maret - 30 April 2026",
+      "description": "Dapatkan perlindungan asuransi All-Risk eksklusif dengan premi khusus dan perbaikan terjamin di bengkel resmi BMW Authorized."
+    },
+    "referral": {
+      "eyebrow": "AJAK TEMAN",
+      "title": "Earn Rewards with BMW Referral Program",
+      "description": "Ajak teman ke BMW Store ID dan dapatkan benefit loyalitas eksklusif.",
+      "benefit1": "Cash Reward for Every Referral",
+      "benefit2": "Priority Service Booking",
+      "benefit3": "Exclusive Member Events",
+      "contactUs": "HUBUNGI KAMI"
+    }
+  },
+  "contactPage": {
+    "title": "Find Your BMW",
+    "subtitle": "Kunjungi showroom resmi kami di Jakarta atau terhubung dengan BMW Business Consultant kami secara instan.",
+    "tabs": {
+      "message": "KIRIM PESAN",
+      "testdrive": "BOOKING TEST DRIVE",
+      "dealer": "TEMUKAN DEALER"
+    },
+    "message": {
+      "title": "Kirim Pesan",
+      "subtitle": "Tim kami akan membalas dalam 24 jam."
+    },
+    "testdrive": {
+      "title": "Booking Test Drive",
+      "description": "Rasakan sensasi berkendara BMW secara langsung. Kami siapkan unit dan rute terbaik untuk Anda.",
+      "modelLabel": "MODEL YANG INGIN DICOBA",
+      "date": "TANGGAL YANG DIINGINKAN",
+      "time": "WAKTU",
+      "location": "LOKASI ANDA (OPSIONAL)",
+      "locationNote": "Tim kami dapat menjemput Anda untuk test drive.",
+      "confirm": "KONFIRMASI TEST DRIVE",
+      "process": "PROSES TEST DRIVE",
+      "step1": {
+        "title": "Isi form & pilih jadwal",
+        "description": "Konfirmasi dikirim via WhatsApp."
+      },
+      "step2": {
+        "title": "Tim kami menghubungi Anda",
+        "description": "Dalam 1x24 jam kerja."
+      },
+      "step3": {
+        "title": "Nikmati test drive BMW",
+        "description": "Di showroom atau lokasi Anda."
+      },
+      "available": "UNIT TERSEDIA UNTUK TEST DRIVE",
+      "availableStatus": "TERSEDIA"
+    },
+    "dealer": {
+      "viewMap": "VIEW ON GOOGLE MAPS",
+      "flagship": "MAIN FLAGSHIP",
+      "name": "BMW Authorized Dealer",
+      "open": "SHOWROOM OPEN",
+      "address": "ALAMAT",
+      "addressValue": "Jl. R.A. Kartini No. Kav. 8\nCilandak, Jakarta Selatan\n12430, Indonesia",
+      "contact": "KONTAK",
+      "hours": "JAM BUKA SHOWROOM",
+      "support": "SUPPORT",
+      "roadside": "Bantuan Pinggir Jalan 24/7",
+      "roadsideDescription": "Layanan prioritas eksklusif untuk pemilik BMW.",
+      "inquiry": {
+        "title": "Direct Inquiry",
+        "description": "Tidak bisa mengunjungi kami? Biarkan ahli kami menghubungi Anda dalam 2 jam.",
+        "phone": "NOMOR TELEPON",
+        "model": "MODEL YANG DIMINATI"
+      },
+      "virtual": {
+        "title": "Virtual Consultation",
+        "description": "Rasakan showroom dari rumah."
+      },
+      "findOther": {
+        "title": "Cari Dealer Lain",
+        "description": "Jelajahi jaringan kami di Indonesia."
+      }
+    },
+    "form": {
+      "fullName": "NAMA LENGKAP",
+      "fullNamePlaceholder": "Masukkan nama lengkap",
+      "whatsapp": "NO. WHATSAPP",
+      "model": "MODEL YANG DIMINATI",
+      "selectModel": "Pilih Model",
+      "inquiryType": "JENIS PERTANYAAN",
+      "message": "PESAN",
+      "messagePlaceholder": "Tuliskan pesan atau pertanyaan Anda di sini...",
+      "send": "KIRIM PESAN"
+    },
+    "inquiry": {
+      "testDrive": "TEST DRIVE",
+      "specs": "SPESIFIKASI",
+      "pricing": "HARGA & KREDIT",
+      "other": "LAINNYA"
+    },
+    "contact": {
+      "phone": "Telepon Langsung",
+      "phoneDescription": "Hubungi tim customer service kami untuk respon instan.",
+      "whatsapp": "Chat WhatsApp",
+      "whatsappDescription": "Konsultasi cepat via WhatsApp messenger dengan konsultan kami.",
+      "startChat": "MULAI CHAT SEKARANG"
+    },
+    "hours": {
+      "customerService": "LAYANAN PELANGGAN",
+      "weekdays": "Senin - Jumat",
+      "weekend": "Sabtu - Minggu",
+      "saturday": "Sabtu",
+      "sunday": "Minggu",
+      "email": "Email Resmi"
+    }
+  }
+}

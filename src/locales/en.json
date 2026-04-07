@@ -1,0 +1,211 @@
+{
+  "nav": {
+    "spec": "Specification",
+    "priceList": "Price List",
+    "promo": "Promo",
+    "testDrive": "Test Drive",
+    "tradeIn": "Trade-In",
+    "kredit": "Credit Simulation",
+    "insurance": "BMW Insurance",
+    "coating": "Coating",
+    "afterSales": "After Sales",
+    "contact": "Contact Dealer"
+  },
+  "hero": {
+    "eyebrow": "BMW OFFICIAL STORE — INDONESIA",
+    "title1": "The Ultimate",
+    "title2": "Driving Machine.",
+    "body": "Authorized BMW dealer since 1984. Experience the pinnacle of automotive engineering."
+  },
+  "models": {
+    "header": "Discover All New BMW Series",
+    "showMore": "Show more",
+    "offers": "Offers",
+    "badgeNew": "New!"
+  },
+  "contact": {
+    "eyebrow": "GET IN TOUCH",
+    "title": "Consult with Our BMW Business Consultant",
+    "call": "Call",
+    "chat": "WhatsApp",
+    "testDrive": "Test Drive"
+  },
+  "trust": {
+    "title": "Why BMWStore.id",
+    "c1": "1st BMW dealership in Indonesia with more than 40 years experience. Since 1984.",
+    "c2": "Get Exclusive Offers at BMW Official Store. Contact us.",
+    "c3": "100% Guaranteed Best Price and offers with Professional customer oriented staff — Best Customer Relationship BMW Indonesia Award."
+  },
+  "finance": {
+    "eyebrow": "BMW FINANCIAL SERVICES",
+    "title": "Finance Your Ultimate Driving Machine.",
+    "body": "BMW Financial Services is the Official Partner of BMW. Key business fields include loan financing and leasing of BMW automobiles for private and business customers, plus selected insurance products.",
+    "note": "*T&C applied. Contact us for more information.",
+    "cta": "Calculate Now"
+  },
+  "simulasi": {
+    "title": "BMW Credit Simulation",
+    "subtitle": "Plan your dream BMW ownership with our credit simulation calculator. Get estimates for Down Payment (DP) and monthly installments.",
+    "adjustFinancing": "Adjust Financing",
+    "carPrice": "Car Price (OTR)",
+    "dp": "Down Payment (DP)",
+    "dpMin": "Min 20%",
+    "dpMax": "Max 70%",
+    "tenure": "Tenure (Months)",
+    "estimation": "Financing Estimation",
+    "totalDP": "Total Down Payment (DP)",
+    "loanPrincipal": "Loan Principal",
+    "monthlyInstallment": "Monthly Installment",
+    "disclaimer": "*This calculation is only a simulation. Actual figures may vary according to current interest rates and BMW Financial Services leasing insurance.",
+    "apply": "Apply for Financing"
+  },
+  "financial": {
+    "eyebrow": "BMW FINANCIAL SERVICES",
+    "title": "Drive Today. Pay on Your Terms.",
+    "body": "Our customized financing solutions are designed to suit your specific financial requirements. From flexible leasing to tailored ownership plans.",
+    "fastApproval": "Fast Approval in 24 Hours",
+    "competitiveRates": "Competitive Special Interest Rates",
+    "simulation": "Credit Simulation",
+    "selectModel": "SELECT MODEL",
+    "dpLabel": "DOWN PAYMENT (DP)",
+    "tenureLabel": "TENURE (MONTHS)",
+    "estimation": "ESTIMATED INSTALLMENT / MONTH",
+    "contactConsultant": "CONTACT CONSULTANT"
+  },
+  "search": {
+    "title": "Top Search"
+  },
+  "promo": {
+    "title": "Current BMW Promotions",
+    "subtitle": "Exclusive offers available at BMW Store Indonesia. Limited time.",
+    "period": "MARCH - APRIL 2026",
+    "limitedTime": "LIMITED TIME",
+    "getOffer": "GET OFFER",
+    "card1": {
+      "title": "Easy Installments Starting 0% Interest",
+      "validity": "Valid: 1 March - 30 April 2026",
+      "description": "Get the best installment offer with 0% interest for up to 24 months. Valid for ready stock units."
+    },
+    "card2": {
+      "title": "Free 3-Year Service Package",
+      "validity": "Valid: 1 March - 30 April 2026",
+      "description": "Enjoy peace of mind with a comprehensive service package free for 3 years. Includes spare parts and routine service labor."
+    },
+    "card3": {
+      "title": "Trade-In Special Rate",
+      "validity": "Valid: Throughout 2026",
+      "description": "Trade in your old car for your dream BMW. Transparent unit assessment with the best price offer in the automotive market."
+    },
+    "card4": {
+      "title": "BMW Insurance Bundle",
+      "validity": "Valid: 1 March - 30 April 2026",
+      "description": "Get exclusive All-Risk insurance protection with special premiums and guaranteed repairs at official BMW Authorized workshops."
+    },
+    "referral": {
+      "eyebrow": "BRING A FRIEND",
+      "title": "Earn Rewards with BMW Referral Program",
+      "description": "Refer a friend to BMW Store ID and receive exclusive loyalty benefits.",
+      "benefit1": "Cash Reward for Every Referral",
+      "benefit2": "Priority Service Booking",
+      "benefit3": "Exclusive Member Events",
+      "contactUs": "CONTACT US"
+    }
+  },
+  "contactPage": {
+    "title": "Find Your BMW",
+    "subtitle": "Visit our authorized showroom in Jakarta or connect with our BMW Business Consultant instantly.",
+    "tabs": {
+      "message": "SEND MESSAGE",
+      "testdrive": "BOOKING TEST DRIVE",
+      "dealer": "FIND DEALER"
+    },
+    "message": {
+      "title": "Send Message",
+      "subtitle": "Our team will respond within 24 hours."
+    },
+    "testdrive": {
+      "title": "Booking Test Drive",
+      "description": "Experience the sensation of driving a BMW directly. We prepare the unit and best route for you.",
+      "modelLabel": "MODEL TO TRY",
+      "date": "DESIRED DATE",
+      "time": "TIME",
+      "location": "YOUR LOCATION (OPTIONAL)",
+      "locationNote": "Our team can pick you up for the test drive.",
+      "confirm": "CONFIRM TEST DRIVE",
+      "process": "TEST DRIVE PROCESS",
+      "step1": {
+        "title": "Fill form & choose schedule",
+        "description": "Confirmation sent via WhatsApp."
+      },
+      "step2": {
+        "title": "Our team will contact you",
+        "description": "Within 1x24 business hours."
+      },
+      "step3": {
+        "title": "Enjoy BMW test drive",
+        "description": "At the showroom or your location."
+      },
+      "available": "UNITS AVAILABLE FOR TEST DRIVE",
+      "availableStatus": "AVAILABLE"
+    },
+    "dealer": {
+      "viewMap": "VIEW ON GOOGLE MAPS",
+      "flagship": "MAIN FLAGSHIP",
+      "name": "BMW Authorized Dealer",
+      "open": "SHOWROOM OPEN",
+      "address": "ADDRESS",
+      "addressValue": "Jl. R.A. Kartini No. Kav. 8\nCilandak, Jakarta Selatan\n12430, Indonesia",
+      "contact": "CONTACT",
+      "hours": "SHOWROOM HOURS",
+      "support": "SUPPORT",
+      "roadside": "24/7 Roadside Assistance",
+      "roadsideDescription": "Exclusive priority service for BMW owners.",
+      "inquiry": {
+        "title": "Direct Inquiry",
+        "description": "Can't visit us? Let our experts reach out to you within 2 hours.",
+        "phone": "PHONE NUMBER",
+        "model": "MODEL OF INTEREST"
+      },
+      "virtual": {
+        "title": "Virtual Consultation",
+        "description": "Experience the showroom from home."
+      },
+      "findOther": {
+        "title": "Find Other Dealers",
+        "description": "Explore our Indonesia network."
+      }
+    },
+    "form": {
+      "fullName": "FULL NAME",
+      "fullNamePlaceholder": "Enter your full name",
+      "whatsapp": "WHATSAPP NO.",
+      "model": "MODEL OF INTEREST",
+      "selectModel": "Select Model",
+      "inquiryType": "TYPE OF INQUIRY",
+      "message": "MESSAGE",
+      "messagePlaceholder": "Write your message or question here...",
+      "send": "SEND MESSAGE"
+    },
+    "inquiry": {
+      "testDrive": "TEST DRIVE",
+      "specs": "SPECIFICATIONS",
+      "pricing": "PRICING & CREDIT",
+      "other": "OTHER"
+    },
+    "contact": {
+      "phone": "Direct Call",
+      "phoneDescription": "Contact our customer service team for instant response.",
+      "whatsapp": "WhatsApp Chat",
+      "whatsappDescription": "Quick consultation via WhatsApp messenger with our consultants.",
+      "startChat": "START CHAT NOW"
+    },
+    "hours": {
+      "customerService": "CUSTOMER SERVICE",
+      "weekdays": "Mon - Fri",
+      "weekend": "Sat - Sun",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "email": "Official Email"
+    }
+  }
+}
